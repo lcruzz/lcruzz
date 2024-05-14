@@ -1,14 +1,13 @@
-## Olá! sou Laura Cruz 👋
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lcruzz&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lcruzz&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lcruzz&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Santos-C&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Santos-C&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Minhas Tecnologias
+## 💻 Tech Stack:
 <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
 </div><br/>
