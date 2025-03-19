@@ -11,8 +11,8 @@ Olá! Sou estudante de informática de uma escola profissionalizante e uso meu g
 </div><br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lcruzz&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api?username=lcruzz&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcruzz&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=lcruzz&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=lcruzz&limit=5&theme=nightowl&hide_border=true&combine_all_yearly_contributions=true)
