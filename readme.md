@@ -1,8 +1,10 @@
 # 💫 About Me:
 Olá! Sou estudante de informática de uma escola profissionalizante e uso meu github para guardar os projetos e atividades que faço na escola.
 
+
 # 🖥️ My Projects:
-O repositório dos meus principais projetos estão fixado no meu perfil. O fixado é exibido abaixo deste README
+Os repositórios dos meus principais projetos estão fixado no meu perfil. O fixado é exibido abaixo deste README
+
 
 ## 👩‍💻 Tech Stack:
 <div style="display: inline_block"><br>
