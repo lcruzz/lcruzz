@@ -1,5 +1,6 @@
 # 💫 About Me:
-Olá! Sou estudante de informática de uma escola profissionalizante e uso meu github para guardar os projetos e atividades que faço na escola.
+• Graduando em Ciência da computação 
+• Técnico em informática
 
 
 # 🖥️ My Projects:
@@ -12,7 +13,6 @@ Os repositórios dos meus principais projetos estão fixado no meu perfil. O fix
   <img align="center" alt="HTML5" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="38" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="75" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div><br/>
 
 # 📊 GitHub Stats:
