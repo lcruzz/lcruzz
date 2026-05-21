@@ -3,7 +3,7 @@ Sou estudante de Ciência da Computação pela Universidade Estadual do Ceara (U
 
 ## 🛠 Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=C" height="50" alt="C"/>
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="C"/>
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=python" height="50" alt="python"/>
   <img width="15" />
