@@ -5,8 +5,8 @@
 </div>
 ---
 
-# 💫 About Me:
-Sou estudante de Ciência da Computação pela Universidade Estadual do Ceara (UECE) e busco constantemente eveoluir meus conhecimentos aprendendo novas linguagens e tecnologias.
+## 💫 About Me:
+<p>Sou estudante de Ciência da Computação pela Universidade Estadual do Ceara (UECE) e busco constantemente eveoluir meus conhecimentos aprendendo novas linguagens e tecnologias.</p>
 ---
 
 ## 🛠 Tech Stack
